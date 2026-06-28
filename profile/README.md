@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="./assets/Admin-svg.svg" alt="Hitesh" /></p>
+<p align="center"><img width="100px" align="center" src="./../assets/Logo.png" alt="HivarSoft Logo" /></p>
 
 <div align="center">
   
@@ -12,7 +12,6 @@ We believe powerful software should be accessible, transparent, and affordable.
 
 </div>
 
----
 
 ## 🚀 About Us
 
@@ -24,7 +23,6 @@ Our mission is simple:
 
 We build products, tools, and services that empower developers, businesses, and communities through open-source technology.
 
----
 
 ## 🎯 What We Do
 
@@ -53,7 +51,6 @@ We build products, tools, and services that empower developers, businesses, and 
 - Community Projects
 - Educational Resources
 
----
 
 ## 🛠️ Technologies We Love
 
@@ -63,7 +60,6 @@ We build products, tools, and services that empower developers, businesses, and 
 
 </p>
 
----
 
 ## 🌟 Our Vision
 
@@ -75,7 +71,6 @@ To become a trusted software company that delivers:
 ✅ Reliable Support  
 ✅ Community-Driven Development  
 
----
 
 ## 🤝 Contributing
 
@@ -90,7 +85,6 @@ Whether it's:
 
 Your contributions help make software better for everyone.
 
----
 
 ## 📢 Connect With Us
 
@@ -102,7 +96,6 @@ Your contributions help make software better for everyone.
 
 🐙 GitHub: https://github.com/HivarSoft
 
----
 
 ## 💙 Open Source First
 
@@ -110,7 +103,6 @@ At HivarSoft, we believe in giving back to the developer community.
 
 Many of our tools and projects will be open source, allowing developers and organizations to learn, adapt, and build upon them.
 
----
 
 <div align="center">
 
