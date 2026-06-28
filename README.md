@@ -1,6 +1,6 @@
-# 👋 Welcome to HivarSoft
-
 <div align="center">
+  
+# 👋 Welcome to HivarSoft
 
 ### Building Affordable & Open Source Software for Everyone
 
